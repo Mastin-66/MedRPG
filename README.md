@@ -10,7 +10,7 @@ Implementation for the MICCAI 2023 paper **"Medical Phrase Grounding with Region
 As shown in ```requirements.txt```
 
 ## Get to know MedRPG
-Users can utilize MedRPG directly by accessing the web interface (by visiting ```3.0.76.41:7860```). The system supports image uploads by users, allowing them to obtain a corresponding grounded image based on the entered phrase. [xiaochen]([HTTP:](https://3.0.76.41:7860)
+Users can utilize MedRPG directly by accessing the web interface (by visiting ```3.0.76.41:7860```). The system supports image uploads by users, allowing them to obtain a corresponding grounded image based on the entered phrase. [xiaochen](https://3.0.76.41:7860)
 
 ## Try a demo with our pretrained checkpoint
 1. Download our [released checkpoint](https://drive.google.com/file/d/1STt5oG52YenG3XLYyjOm13HsVdFLrKKv/view?usp=sharing) to folder ```released_checkpoint```
