@@ -1,7 +1,7 @@
 # Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment
 Implementation for the MICCAI 2023 paper **"Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment"**[[ArXiv link](https://arxiv.org/abs/2303.07618)].  
 
-#### News: In 2024.6.20, we added a web access interface for MedRPG.
+#### News: In 2024.6.20, we added an online demo for MedRPG.
 #### News: In 2023.8.15, we first released the code of MedRPG.
 
 ***
@@ -10,7 +10,7 @@ Implementation for the MICCAI 2023 paper **"Medical Phrase Grounding with Region
 As shown in ```requirements.txt```
 
 ## Get to know MedRPG
-Users can utilize MedRPG directly by accessing the [web interface](https://annotation.evydlab.com/). The system supports image uploads by users, allowing them to obtain a corresponding grounded image based on the entered phrase.
+You can quickly know MedRPG by accessing the [online demo](https://annotation.evydlab.com/). 
 
 ## Try a demo with our pretrained checkpoint
 1. Download our [released checkpoint](https://drive.google.com/file/d/1STt5oG52YenG3XLYyjOm13HsVdFLrKKv/view?usp=sharing) to folder ```released_checkpoint```
