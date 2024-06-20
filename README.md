@@ -1,7 +1,8 @@
 # Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment
 Implementation for the MICCAI 2023 paper **"Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment"**[[ArXiv link](https://arxiv.org/abs/2303.07618)].  
 
-#### News: In 2023.8.15, We first release the code of MedRPG.
+#### News: In 2024.6.20, we added a web access interface for MedRPG.
+#### News: In 2023.8.15, we first released the code of MedRPG.
 
 ***
 ![Image Text](https://github.com/eraserNut/MedRPG/blob/master/figures/framework.png)
