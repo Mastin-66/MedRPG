@@ -8,7 +8,10 @@ Implementation for the MICCAI 2023 paper **"Medical Phrase Grounding with Region
 ## Environment
 As shown in ```requirements.txt```
 
-## Try a demo
+## Get to know MedRPG
+Users can utilize MedRPG directly by accessing the [web interface](3.0.76.41:7860). The system supports image uploads by users, allowing them to obtain a corresponding grounded image based on the entered phrase.
+
+## Try a demo with our pretrained checkpoint
 1. Download our [released checkpoint](https://drive.google.com/file/d/1STt5oG52YenG3XLYyjOm13HsVdFLrKKv/view?usp=sharing) to folder ```released_checkpoint```
 2. Modify line 144,145,146 in ```demo.py``` to config the input (we put some images in the folder ```data_demo```)
 3. Run ```demo.py``` and the output image will be saved in ```demo_cases```
